@@ -1,0 +1,11 @@
+local test
+test = 1
+print("this test is for testing capacitors that are conected to your computer/server if the test end's then you win...")
+os.sleep(7)
+print("starting in 10 seconds large amount of lag expected")
+os.sleep(10)
+ repeat
+print("cpu cycle:", test
+test = test + 1
+    until( test > 1000000 )
+print("test complete")
