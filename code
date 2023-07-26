@@ -5,7 +5,7 @@ os.sleep(7)
 print("starting in 10 seconds large amount of lag expected")
 os.sleep(10)
  repeat
-print("cpu cycle:", test
+print("cpu cycle:", test )
 test = test + 1
     until( test > 1000000 )
 print("test complete")
